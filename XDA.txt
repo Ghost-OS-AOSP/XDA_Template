@@ -43,6 +43,6 @@ Sound/vibration[/SIZE]
 [*][b]Android OS version:[/b] 12.1
 [*][b]Security patch level:[/b] JUNE 2022
 [*][b]Build author/Device Maintainer:[/b] [url=XDA_PROFILE_URL]XDA_USERNAME[/url]
-[*][b]Device Source code:[/b] [url=https://github.com/Ghost-OS-Devices]https://github.com/GhostOS-Devices[/url]
+[*][b]Device Source code:[/b] [url=https://github.com/GhostOS-Devices]https://github.com/GhostOS-Devices[/url]
 [*][b]Source code:[/b] [url=https://github.com/Ghost-OS-AOSP]https://github.com/Ghost OS[/url]
 [/list][/SIZE][/LEFT]
